@@ -12,7 +12,7 @@ This project analyzes the **Sample Superstore Dataset** using **Tableau**, with 
 
 
 ##  Dashboard Preview  
-![Superstore Dashboard](https://github.com/ChitraSatyaLahariPatnala/Retail-Analysis-of-Superstore-using-Tableau-/blob/main/Tableau%20dashboard)   
+![Superstore Dashboard](https://github.com/ChitraSatyaLahariPatnala/Retail-Analysis-of-Superstore-using-Tableau-/blob/main/Retail%20Analysis%20of%20super%20store%20dashboard)   
 
 
 ##  Dashboard Features  

@@ -2,7 +2,6 @@
 
 This project analyzes the **Sample Superstore Dataset** using **Tableau**, with data cleaned in **Excel**, to uncover insights into sales performance, profitability, and customer segments.  
 
----
 
 ##  Workflow  
 1. **Data Cleaning**  
@@ -11,10 +10,9 @@ This project analyzes the **Sample Superstore Dataset** using **Tableau**, with 
 2. **Dashboard Development**  
    - Designed and built an **interactive Tableau dashboard** that provides a holistic view of sales performance.  
 
----
 
 ##  Dashboard Preview  
-![Superstore Dashboard]()   
+![Superstore Dashboard](https://github.com/ChitraSatyaLahariPatnala/Retail-Analysis-of-Superstore-using-Tableau-/blob/main/Tableau%20dashboard)   
 
 
 ##  Dashboard Features  
@@ -40,4 +38,11 @@ This project analyzes the **Sample Superstore Dataset** using **Tableau**, with 
 
 
 ##  Explore More  
-- **Interactive Dashboard** → [View on Tableau Public](https://public.tableau.com/app/profile/chitra.satya.lahari.patnala/viz/Analyticsreport_17505834230790/Dashboard2)  
+- **Interactive Dashboard** → [View on Tableau Public](https://public.tableau.com/app/profile/chitra.satya.lahari.patnala/viz/Analyticsreport_17505834230790/Dashboard2)
+
+## Summary
+
+- This project demonstrates how interactive dashboards can uncover trends in sales, profit, and orders.
+- Using Excel for data cleaning and Tableau for visualization, the analysis provides clear, actionable business insights.
+- These insights can support better decision-making in retail strategy and performance optimization.
+
